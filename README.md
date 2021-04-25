@@ -42,3 +42,6 @@ Philosopher | Eating Time | Waiting Time
 ### Runtimes
 - The simulation was run many times using different numbers of time steps (100 steps, 1000 steps, 10000 steps, … 100000000 steps), and each produced very similar results, proportional to the number of steps, with some small variations.  We then made a line plot (shown below) of runtimes against the number of time steps simulated to show how the two strategies scale as time progresses.
 ![runtime-graph](runtimes.png)
+
+## Contributions
+Samuel and Kevin collaborated on writing most of the code for the simulation, Michael completed the write-up and analysis of the results, and Kevin compiled everything into a repository for easy viewing.
