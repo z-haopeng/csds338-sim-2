@@ -1,4 +1,5 @@
 # Dining Philosophers Simulation for CSDS 338
+Samuel Bachelor, Michael Seese, Kevin Zhou
 
 ## Program Files
 - Main.java: runs the simulation
